@@ -1,4 +1,4 @@
-# circularrevealfab
+# CircularRevealFab
 A fab that starts a circular reveal and circular hide.
 
 ![Demo](images/circular_reveal_fab.gif)
